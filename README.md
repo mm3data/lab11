@@ -47,7 +47,25 @@ _При равенстве приоритетов выбираеться мар�
 ![image](https://github.com/user-attachments/assets/ba21d236-5823-4ef1-a55a-42e3764fb864)  
 ![image](https://github.com/user-attachments/assets/8bfe9a7b-de9a-4768-b2e7-367358843e8b)  
 ![image](https://github.com/user-attachments/assets/230a2097-503d-4aaa-96d5-91eb1043fcf6)  
-![image](https://github.com/user-attachments/assets/92d42ce3-34cb-4093-99ff-85e837a66073)
+![image](https://github.com/user-attachments/assets/92d42ce3-34cb-4093-99ff-85e837a66073)  
+![image](https://github.com/user-attachments/assets/9db51dd1-2dea-49c4-b76a-c11cb135ee5b)
+![image](https://github.com/user-attachments/assets/f2a0b49d-4ebd-415e-a978-b9838b4076e7)   
+![image](https://github.com/user-attachments/assets/7ddd028e-0de9-4c27-b9bd-2170ed4203bb)  
+![image](https://github.com/user-attachments/assets/67697865-0e03-4a21-a05c-6058c5b369f7)  
+![image](https://github.com/user-attachments/assets/f540d278-f829-4769-bbb2-7d1b0be722f1)  
+![image](https://github.com/user-attachments/assets/d44b7ba0-7062-49c6-9ff3-4e50f29fc7b9)  
+Поменял dead interval на 120  
+![image](https://github.com/user-attachments/assets/b226fe37-1ae3-4907-a15f-6f7d16c62a22)  
+![image](https://github.com/user-attachments/assets/28534352-a20a-401e-8cfa-646559cdd1e3)  
+![image](https://github.com/user-attachments/assets/de348df1-79bd-4040-8b0b-82eee5d3c098)
+
+
+
+
+
+
+
+
 
 
 
