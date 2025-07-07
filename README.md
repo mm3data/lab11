@@ -61,6 +61,16 @@ _При равенстве приоритетов выбираеться мар�
 
 
 
+![image](https://github.com/user-attachments/assets/4376b422-1969-485e-9feb-c7e4dda82c0e)  
+![image](https://github.com/user-attachments/assets/f7d556bc-e342-43db-b1e0-244b75c612e2)  
+![image](https://github.com/user-attachments/assets/7f70a657-3199-44c4-a231-a23295171b92)  
+![image](https://github.com/user-attachments/assets/30daa0cd-f07f-44fa-bf0a-0eb9d1f6d677)
+
+
+
+
+
+
 
 
 
