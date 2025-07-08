@@ -19,7 +19,8 @@ R2 | G0/0/1 | 10.53.0.2 | 255.255.255.0
 ![image](https://github.com/user-attachments/assets/6d79f9e2-de68-4393-a2ff-f08bfbbf1a58)  
 ![image](https://github.com/user-attachments/assets/1d16c288-10ee-4b8c-89d2-7e213d924a92)  
 
-**Настройка фдреса интрефейса и базового OSPFv2 на маршрутизаторах**  
+**Настройка адреса интрефейса и базового OSPFv2 на маршрутизаторах**  
+**R1**  
 ![image](https://github.com/user-attachments/assets/567a7e5c-8da4-4047-bf1b-0ddfbb3bfd68)  
 ![image](https://github.com/user-attachments/assets/88431415-423c-4c5f-af22-2a67ed7a8a80)  
 ![image](https://github.com/user-attachments/assets/40ad4bc7-615a-4811-bc4a-1d597dad1f48)   
@@ -39,32 +40,36 @@ _R2_
 
 **Каковы критерии отбора?**  
 _По приоритету, здесь по умолчанию 1_  
-_При равенстве приоритетов выбираеться маршрутизатор с наибольшим Router ID_  
+_При равенстве приоритетов выбираеться маршрутизатор с наибольшим Router ID_   
+
+**На R1 выполняем команду show ip route ospf, чтобы убедиться, что сеть R2 Loopback1 присутствует в таблице маршрутизации**  
+![image](https://github.com/user-attachments/assets/afc1b28a-6230-4556-bcf1-e7f75c4feebf)
 
 **Оптимизация и проверка конфигурации OSPFv2**  
-![image](https://github.com/user-attachments/assets/bfa797d2-0703-4a09-b77d-73b576cd4854)  
-![image](https://github.com/user-attachments/assets/e2f468e3-fd99-47db-89f8-abe3177dad39)  
-![image](https://github.com/user-attachments/assets/ba21d236-5823-4ef1-a55a-42e3764fb864)  
-![image](https://github.com/user-attachments/assets/8bfe9a7b-de9a-4768-b2e7-367358843e8b)  
-![image](https://github.com/user-attachments/assets/230a2097-503d-4aaa-96d5-91eb1043fcf6)  
-![image](https://github.com/user-attachments/assets/92d42ce3-34cb-4093-99ff-85e837a66073)  
-![image](https://github.com/user-attachments/assets/9db51dd1-2dea-49c4-b76a-c11cb135ee5b)
-![image](https://github.com/user-attachments/assets/f2a0b49d-4ebd-415e-a978-b9838b4076e7)   
-![image](https://github.com/user-attachments/assets/7ddd028e-0de9-4c27-b9bd-2170ed4203bb)  
-![image](https://github.com/user-attachments/assets/67697865-0e03-4a21-a05c-6058c5b369f7)  
-![image](https://github.com/user-attachments/assets/f540d278-f829-4769-bbb2-7d1b0be722f1)  
-![image](https://github.com/user-attachments/assets/d44b7ba0-7062-49c6-9ff3-4e50f29fc7b9)  
-Поменял dead interval на 120  
-![image](https://github.com/user-attachments/assets/b226fe37-1ae3-4907-a15f-6f7d16c62a22)  
-![image](https://github.com/user-attachments/assets/28534352-a20a-401e-8cfa-646559cdd1e3)  
-![image](https://github.com/user-attachments/assets/de348df1-79bd-4040-8b0b-82eee5d3c098)
+![image](https://github.com/user-attachments/assets/82b89f14-c2ef-44b0-b553-4d31bc6568e4)  
+![image](https://github.com/user-attachments/assets/7c015c28-6b2c-42a3-ada2-a4fd344ee14e)  
+![image](https://github.com/user-attachments/assets/0afb4613-f865-4809-94fb-d1f540fee8c4)  
+![image](https://github.com/user-attachments/assets/4a01e851-2273-40dc-abec-3c90a6cdb2cc)  
+![image](https://github.com/user-attachments/assets/7d37ebbc-60d0-4872-a697-d4c26f215c82)  
+![image](https://github.com/user-attachments/assets/6109fa1b-84f4-46f1-8bf5-0bee8d8d5794)  
+![image](https://github.com/user-attachments/assets/071b25f6-f0d1-4a78-a5e4-eecfd398c33d)  
+![image](https://github.com/user-attachments/assets/fd555009-c085-421e-a690-0a8aeafa4a8f)  
 
 
 
-![image](https://github.com/user-attachments/assets/4376b422-1969-485e-9feb-c7e4dda82c0e)  
-![image](https://github.com/user-attachments/assets/f7d556bc-e342-43db-b1e0-244b75c612e2)  
-![image](https://github.com/user-attachments/assets/7f70a657-3199-44c4-a231-a23295171b92)  
-![image](https://github.com/user-attachments/assets/30daa0cd-f07f-44fa-bf0a-0eb9d1f6d677)
+
+
+
+
+
+
+
+
+
+
+
+  
+
 
 
 
